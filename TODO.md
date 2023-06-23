@@ -1,0 +1,20 @@
+- [x] Saknade rutor
+- [ ] Dubbel minsvepare
+- [ ] Mysterie-kalkudoko
+- [ ] Linjesvepare
+- [ ] Diagonal länkform
+- [ ] Hashi
+- [ ] Spiralgalaxer
+- [ ] Tetromino
+- [ ] Tält
+- [ ] Kungens resa
+- [ ] Sifferdart
+- [ ] Fyrar
+- [ ] Lätt som A,B,C,D
+- [ ] Pilsudoko
+- [ ] Moln
+- [ ] Pilar
+- [ ] Aldrig fyra i rad
+- [ ] Torodial sudoko
+- [ ] Skyskrapor
+- [ ] Tågspår
