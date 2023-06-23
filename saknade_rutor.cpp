@@ -33,7 +33,6 @@ bool solve_grid(std::vector<std::vector<int>> &grid, int row, int col){
             grid[row][col] = 0;
         }
     }
-    const std::vector<std::vector<int>> &GRID = grid;
     return false;
 }
 
